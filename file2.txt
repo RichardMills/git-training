@@ -1,1 +1,9 @@
 Second file
+Some longer lines
+that can be changed
+with future edits
+for training purposes
+and to teach other 
+people how to use
+git for version control
+and editing
