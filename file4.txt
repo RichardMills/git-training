@@ -1,0 +1,6 @@
+File number 4. 
+A few lines of text
+that can be used
+for editing and 
+committing additional
+changed
